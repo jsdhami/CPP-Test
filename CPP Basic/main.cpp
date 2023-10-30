@@ -7,6 +7,5 @@ int main() {
     cout << "The sum of a and b is: " << sum << endl;
     cin >> a;
     cout << "You entered: " << a << endl;
-    
     return 0;
 }
