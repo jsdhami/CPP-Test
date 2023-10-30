@@ -1,2 +1,2 @@
 ## C++ Basic Course
-C++ is high level programming language 
+C++ is high level OOP programming language.
