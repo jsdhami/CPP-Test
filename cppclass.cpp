@@ -25,12 +25,12 @@ int area(int l, int b){
 };
 
 int main() {
-Test tk; //object creation
+Test tk; //object creation for class
 
 tk.myNum=10;//assigning value to attribute of object
 cout<<"Area is "<<tk.area(5 ,6)<<endl;
-janu(5, 5);
-MyInfo datas;
+janu(5, 5); // function calling 
+MyInfo datas; // class object crations
 datas.name = "Janak Singh Dhami";
 datas.phone = "9745445284";
 cout << "My Name is " << datas.name; 
@@ -41,6 +41,7 @@ cout << " and " <<"My Phone number is " << datas.phone;
 return 0;
 
 }
+
 //function defination
 void janu(int x, int y){
     int sum = x + y;
