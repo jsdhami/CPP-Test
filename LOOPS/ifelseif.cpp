@@ -23,7 +23,5 @@ int main() {
         {
             cout << "Name is not Janak or Raj";
         }
-        
-
     return 0;
 }
